@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on A.I. and Machine Learning Projects.
 - 📫 How to reach me:
 - Personal: alvinzbomed@gmail.com
-- Work:: al.bomediano@obf.ateneo.edu
+- Work: al.bomediano@obf.ateneo.edu
 - Discord: Al.Raoul#1010
 
 <!---
