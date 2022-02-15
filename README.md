@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlVinEngBom
-- 👀 I’m interested in Coding, Artificial Intelligence, Robotics, Table Tennis, Anime, and Manga
-- 🌱 I’m currently learning Python and various libraries while having fun!
-- 💞️ I’m looking to collaborate on automating the tedious stuff
+- 👀 I’m interested in Coding, A.I., Jazz, Table Tennis, Cosplay, Anime, and Manga
+- 🌱 I’m currently developing my tech-stack
+- 💞️ I’m looking to collaborate on A.I. and Machine Learning Projects.
 - 📫 How to reach me - alvinzbomed@gmail.com / al.bomediano@obf.ateneo.edu
 
 <!---
